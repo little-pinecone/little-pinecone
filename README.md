@@ -14,11 +14,12 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
  
  ## GitHub Stats
  
-[![little-pinecone's GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
 
  ---
 
 ## Built With
 
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+* [Shileds.io](https://shields.io/)
