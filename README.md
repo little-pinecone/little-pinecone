@@ -1,14 +1,24 @@
 [![keep_growing logo](logo_250x60.png)](https://keepgrowing.in/)
 
-## Hi there 👋
+## Hi there
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [https://keepgrowing.in/](https://keepgrowing.in/). If you found value in something I have created, please feel free to share it.
-
-  ---
-
-I believe in creating software with passion, craftsmanship, care and joy. I’m convinced that adherence to good practices doesn’t ruin deadlines and budgets, but saves them instead. It’s true that ideal code is too broad a concept to capture but I believe it is still worth chasing – and I chase it since the first line I wrote.
+I have a strong passion for polishing my skills and sharing my knowledge with others. Therefore, I publish open source code on GitHub and share my articles on [https://keepgrowing.in/](https://keepgrowing.in/). If you found value in something I created, please, pass it on to others :)
 
  ---
+
+I believe in creating software with passion, craftsmanship, care and joy.
+
+ ---
+ 
+ ## Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?logo=java&logoColor=fca211&color=fca211)
+![](https://img.shields.io/badge/Tools-Springboot-informational?logo=spring&logoColor=fca211&color=fca211)
+![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=fca211&color=fca211)
+![](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=fca211&color=fca211)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?logo=postgresql&logoColor=fca211&color=fca211)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?logo=intellij-idea&logoColor=fca211&color=fca211)
+ 
+ ## &#x1f4c8; GitHub Stats
  
 [![little-pinecone's GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
