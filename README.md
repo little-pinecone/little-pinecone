@@ -16,6 +16,7 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
 ![Spring Boot](https://img.shields.io/badge/Springboot-informational?style=for-the-badge&logo=spring&logoColor=fca211&color=202529&labelColor=202529)
 ![Hibernate](https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=Hibernate&logoColor=fca211&color=202529&labelColor=202529)
 ![JUnit](JUnit-informational.svg)
+![Angular](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=fca211&color=202529&labelColor=202529)
 
 ### Tools
 
