@@ -13,7 +13,7 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=fca211&color=202529&labelColor=202529)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=fca211&color=202529&labelColor=202529)
 ![Github](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github&logoColor=fca211&color=202529&labelColor=202529)
-![JUnit](Tools-JUnit-informational.svg)
+![JUnit](JUnit-informational.svg)
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=fca211&color=202529&labelColor=202529)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=fca211&color=202529&labelColor=202529)
