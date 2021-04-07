@@ -6,7 +6,7 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
  
  ## Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=fca211&color=202529&labelColor=202529)
-![Typescript](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=TypeScirpt&logoColor=fca211&color=202529&labelColor=202529)
+![Typescript](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=TypeScript&logoColor=fca211&color=202529&labelColor=202529)
 
 ![Spring Boot](https://img.shields.io/badge/Springboot-informational?style=for-the-badge&logo=spring&logoColor=fca211&color=202529&labelColor=202529)
 ![Hibernate](https://img.shields.io/badge/Hibernate-informational?style=for-the-badge&logo=Hibernate&logoColor=fca211&color=202529&labelColor=202529)
