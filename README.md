@@ -15,10 +15,17 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
 ![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=fca211&color=fca211&labelColor=202529)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=fca211&color=fca211&labelColor=202529)
 
- ## GitHub Stats
+ ## GitHub Stats based on public contributions
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529&hide=contribs)](https://github.com/little-pinecone/github-readme-stats)
+
+<a href="https://github.com/little-pinecone/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529" />
+</a>
+<a href="https://github.com/little-pinecone/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529&hide=contribs" />
+</a>
 
 ## Favourite projects I work on
 
