@@ -17,7 +17,6 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
 
- ---
 
 ## Built With
 
