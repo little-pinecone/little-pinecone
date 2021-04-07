@@ -1,4 +1,4 @@
-[![keep_growing logo](readme-images/logo_250x60.png)](https://keepgrowing.in/)
+[![keep_growing logo](logo_250x60.png)](https://keepgrowing.in/)
 
 ## Hi there 👋
 
