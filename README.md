@@ -4,7 +4,7 @@
 
 I have a strong passion for polishing my skills and sharing my knowledge with others. Therefore, I publish open source code on GitHub and share my articles on [https://keepgrowing.in/](https://keepgrowing.in/). If you found value in something I created, please, pass it on to others :)
  
-## Technologies & Tools
+## Preferred Technologies & Tools
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=fca211&color=202529&labelColor=202529)
