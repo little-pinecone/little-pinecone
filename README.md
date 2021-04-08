@@ -27,11 +27,11 @@ I strongly believe in creating an environment that encourages collective learnin
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=fca211&color=202529&labelColor=202529)
 
 ## Methodologies
-* Software Craftsmanship
-* Extreme programming
-* Test Driven Development
-* Domain Driven Design
-* Scrum
+[![Software Craftsmanship](Software_Craftsmanship-informational.svg)](https://manifesto.softwarecraftsmanship.org/)
+[![Extreme programming](Extreme_programming-informational.svg)](https://en.wikipedia.org/wiki/Extreme_programming)
+[![Test Driven Development](Test_Driven_Development-informational.svg)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![Domain Driven Design](Domain_Driven_Design-informational.svg)](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+[![Agile Software Development](Agile_Software_Development-informational.svg)](https://agilemanifesto.org/iso/en/manifesto.html)
 
  ## GitHub Stats based on public contributions
  
