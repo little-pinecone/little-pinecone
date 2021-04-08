@@ -22,6 +22,7 @@ I strongly believe in creating an environment that encourages collective learnin
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-informational?style=for-the-badge&logo=Google-Cloud&logoColor=fca211&color=202529&labelColor=202529)
 
 ### Other
+![SonarQube](https://img.shields.io/badge/Sonarqube-informational?style=for-the-badge&logo=SonarQube&logoColor=fca211&color=202529&labelColor=202529)
 ![Github](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github&logoColor=fca211&color=202529&labelColor=202529)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=fca211&color=202529&labelColor=202529)
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=fca211&color=202529&labelColor=202529)
