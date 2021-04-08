@@ -2,7 +2,7 @@
 
 ## Hi there
 
-I have a strong passion for polishing my skills and sharing my knowledge with others. Therefore, I publish open source code on GitHub and share my articles on [https://keepgrowing.in/](https://keepgrowing.in/). If you found value in something I created, please, pass it on to others :)
+I strongly believe in creating an environment that encourages collective learning. Therefore, I actively share my work with the community by publishing open source code on GitHub and tech articles on [https://keepgrowing.in/](https://keepgrowing.in/). If you found value in something I created, please, pass it on to others :)
  
 ## Preferred Technologies & Tools
 
@@ -27,6 +27,7 @@ I have a strong passion for polishing my skills and sharing my knowledge with ot
 ![Linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=fca211&color=202529&labelColor=202529)
 
 ## Methodologies
+* Software Craftsmanship
 * Extreme programming
 * Test Driven Development
 * Domain Driven Design
