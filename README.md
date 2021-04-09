@@ -1,4 +1,4 @@
-[![keep_growing logo](logo_250x60.png)](https://keepgrowing.in/)
+<a href="https://keepgrowing.in/" target="_blank"><img src="github_banner.svg" width="100%"></a>
 
 ## Hi there
 
