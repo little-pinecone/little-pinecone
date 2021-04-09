@@ -56,4 +56,4 @@ I strongly believe in creating an environment that encourages collective learnin
 ## Built With
 
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-* [Shileds.io](https://shields.io/)
+* [Shields.io](https://shields.io/)
