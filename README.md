@@ -33,6 +33,7 @@ I strongly believe in creating an environment that encourages collective learnin
 [![Test Driven Development](Test_Driven_Development-informational.svg)](https://en.wikipedia.org/wiki/Test-driven_development)
 [![Domain Driven Design](Domain_Driven_Design-informational.svg)](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 [![Agile Software Development](Agile_Software_Development-informational.svg)](https://agilemanifesto.org/iso/en/manifesto.html)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-informational?style=for-the-badge&color=202529&labelColor=202529)](https://en.wikipedia.org/wiki/CI/CD)
 
  ## GitHub Stats based on public contributions
  
