@@ -37,13 +37,13 @@ I strongly believe in creating an environment that encourages collective learnin
 
  ## GitHub Stats based on public contributions
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529&hide=contribs)](https://github.com/little-pinecone/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-pinecone&layout=compact&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=little-pinecone&show_icons=true&title_color=fca211&icon_color=fca211&text_color=fff&bg_color=202529&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Favourite projects I work on
 
 [![efficient-mvp-example](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=efficient-mvp-example&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/efficient-mvp-example)
-[![dummy4j](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=dummy4j&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/daniel-frak/dummy4j)
+[![dummy4j](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=dummy4j&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/daniel-frak/dummy4j)
 [![jwt-spring-boot-angular-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=jwt-spring-boot-angular-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/jwt-spring-boot-angular-scaffolding)
 [![angular-multi-layout-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=angular-multi-layout-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/angular-multi-layout-scaffolding)
 [![spring-boot-postgres-flyway](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-postgres-flyway&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-postgres-flyway)
