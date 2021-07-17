@@ -48,7 +48,7 @@ I strongly believe in creating an environment that encourages collective learnin
 [![angular-multi-layout-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=angular-multi-layout-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/angular-multi-layout-scaffolding)
 [![spring-boot-postgres-flyway](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-postgres-flyway&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-postgres-flyway)
 [![spring-boot-log4j-2-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-log4j-2-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-log4j-2-scaffolding)
-[![spring-boot-angular-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-angular-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-log4j-2-scaffolding)
+[![spring-boot-angular-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-angular-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-angular-scaffolding)
 
 
 ## Find me on
