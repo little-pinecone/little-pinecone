@@ -44,6 +44,7 @@ I strongly believe in creating an environment that encourages collective learnin
 
 [![efficient-mvp-example](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=efficient-mvp-example&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/efficient-mvp-example)
 [![dummy4j](https://github-readme-stats.vercel.app/api/pin/?username=daniel-frak&repo=dummy4j&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/daniel-frak/dummy4j)
+[![keycloak-spring-boot](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=keycloak-spring-boot&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/keycloak-spring-boot)
 [![spring-boot-angular-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=spring-boot-angular-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/spring-boot-angular-scaffolding)
 [![jwt-spring-boot-angular-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=jwt-spring-boot-angular-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/jwt-spring-boot-angular-scaffolding)
 [![angular-multi-layout-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=little-pinecone&repo=angular-multi-layout-scaffolding&title_color=fca211&text_color=fff&bg_color=202529)](https://github.com/little-pinecone/angular-multi-layout-scaffolding)
